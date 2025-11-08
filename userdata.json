@@ -1,4 +1,4 @@
-[
+ji[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -14,7 +14,7 @@
     {
         "device_id": "32665cef6abf33e8",
         "key": "key55",
-        "expirydate": "08-11-2025",
+        "expirydate": "09-11-2025",
         "Allowoffline": false
     }
 ]
